@@ -1,3 +1,5 @@
+# A ReactJS app for managing contacts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
