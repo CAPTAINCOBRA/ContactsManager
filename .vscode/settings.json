@@ -1,0 +1,16 @@
+{
+  "todohighlight.keywords": [
+    {
+      "text": "NOTE:",
+      "color": "white",
+      "backgroundColor": "#DDA0DD",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "DONE:",
+      "color": "white",
+      "backgroundColor": "#DDA0DD",
+      "overviewRulerColor": "grey"
+    }
+  ]
+}
